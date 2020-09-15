@@ -1,2 +1,5 @@
 This text should only be in the master branch
 
+This is text that is only in the branch
+
+It should not show up in master
